@@ -4,11 +4,11 @@ This can be used as a Data Augmentation Tool as shown below.
 
 ## Sample Input
 
-The images below 2 orthgonal slices from the sample 3D input provided to the code. The 3D microscopic image is blurry near the edges and clear at the center. 
+The images below show 2 orthgonal slices from the sample 3D input provided to the code. As it can be seen,  the 3D microscopic image is blurry near the edges and clear near the center. 
 
-![image](https://user-images.githubusercontent.com/48079888/68870284-a59d5980-06c8-11ea-8724-b3f651dfb732.png)  ![image](https://user-images.githubusercontent.com/48079888/68870317-b0f08500-06c8-11ea-952f-08008ce3dbf5.png)
+![image](https://user-images.githubusercontent.com/48079888/68870284-a59d5980-06c8-11ea-8724-b3f651dfb732.png)......![image](https://user-images.githubusercontent.com/48079888/68870317-b0f08500-06c8-11ea-952f-08008ce3dbf5.png)
  
-(i)Example of a blurry orthogonal slice (ii) Example of a clear infocus orthogonal slice.
+(i)Example of a blurry orthogonal slice              (ii) Example of a clear infocus orthogonal slice.
 
 ## Sample Output
 
